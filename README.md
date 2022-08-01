@@ -1,6 +1,6 @@
 # peliculas
 
-A new Flutter project.
+Proyecto de consulta a la api ThemoviesBD para el cargo de semiSenior en flutter.
 
 ## Getting Started
 
